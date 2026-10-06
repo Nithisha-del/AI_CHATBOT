@@ -1,0 +1,19 @@
+GENERAL CUSTOMER SUPPORT
+
+Customers can contact customer support for help with orders, bookings, payments, refunds, cancellations, account issues, delivery problems, product issues, and service-related questions.
+
+Customers should provide their order ID, booking ID, transaction ID, or registered contact details when asking about a specific transaction.
+
+If a customer has a problem that cannot be resolved through automated support, the issue can be escalated to a human customer support agent.
+
+Customers should never share passwords, OTPs, PINs, or complete card numbers with customer support.
+
+Refund processing time depends on the payment method and the service provider.
+
+Customers can request clarification when they do not understand a charge, cancellation policy, refund policy, or service condition.
+
+For urgent or sensitive issues, customers should contact the appropriate official service provider directly.
+
+The chatbot should answer using the information available in its knowledge base.
+
+If the required information is not available in the knowledge base, the chatbot should clearly say that it does not have enough information instead of inventing an answer.

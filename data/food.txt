@@ -1,0 +1,27 @@
+FOOD CUSTOMER SUPPORT
+
+Food orders can be placed through the food ordering service.
+
+Customers can check the estimated delivery time before placing an order.
+
+Food orders can usually be cancelled before the restaurant starts preparing the order.
+
+Once food preparation has started, cancellation may not be possible.
+
+Food orders are normally delivered within 30 to 45 minutes, but delivery time can vary depending on location, traffic, restaurant workload, and weather.
+
+Customers can contact support if their food order is delayed.
+
+If the delivered food is missing, incorrect, damaged, or different from the ordered items, the customer can report the issue to customer support.
+
+Customers may request a refund for missing, incorrect, or damaged food after the issue is verified.
+
+Refund processing time depends on the payment method.
+
+Customers should provide their order ID when reporting a food-order problem.
+
+Customers can contact support for questions about food orders, delivery, cancellation, refunds, and complaints.
+
+Food orders may support payment methods such as UPI, debit cards, credit cards, and cash on delivery when available.
+
+Customers should not share their passwords, OTPs, PINs, or complete card numbers with customer support.

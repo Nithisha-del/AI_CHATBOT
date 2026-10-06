@@ -1,0 +1,21 @@
+HOTEL CUSTOMER SUPPORT
+
+Customers can search for and book hotels through supported hotel services.
+
+Customers should check room type, price, availability, facilities, check-in time, check-out time, and cancellation policy before confirming a booking.
+
+Hotel bookings can be cancelled according to the cancellation policy associated with the booking.
+
+Refund eligibility depends on the hotel's cancellation policy and the time of cancellation.
+
+Customers should keep their hotel booking ID when contacting support.
+
+Customers can contact support for booking confirmation, cancellation, refund, room-related issues, and payment problems.
+
+Check-in and check-out times depend on the hotel.
+
+Early check-in or late check-out may depend on hotel availability and may involve additional charges.
+
+Customers should carry valid identification when required by the hotel.
+
+Customers should not share passwords, OTPs, PINs, or complete card numbers with hotel support.

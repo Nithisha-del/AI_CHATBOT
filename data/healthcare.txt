@@ -1,0 +1,19 @@
+HEALTHCARE CUSTOMER SUPPORT
+
+Customers can contact healthcare service support for appointment booking, appointment cancellation, hospital or clinic information, billing questions, and service-related issues.
+
+Customers should provide their appointment ID or booking details when contacting support about a specific appointment.
+
+Appointments can be cancelled or rescheduled according to the healthcare provider's policy.
+
+Appointment availability depends on the selected doctor, clinic, hospital, date, and time.
+
+Healthcare customer support can help with administrative and service-related questions.
+
+The chatbot should not diagnose diseases or provide emergency medical treatment instructions.
+
+For medical emergencies, customers should contact local emergency medical services or visit an appropriate emergency facility.
+
+Customers should protect their medical records and personal information.
+
+Customers should not share unnecessary sensitive information in a public chat.

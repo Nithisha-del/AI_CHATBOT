@@ -1,0 +1,23 @@
+PAYMENT CUSTOMER SUPPORT
+
+Customers can make payments using supported payment methods such as UPI, debit cards, credit cards, and other digital payment methods.
+
+Cash on delivery may be available for selected orders and locations.
+
+If a payment fails but the customer's account is debited, the amount is normally returned automatically within 3 to 5 business days.
+
+Customers should contact support if a failed payment has not been refunded after the expected period.
+
+Customers should keep the transaction ID when reporting a payment problem.
+
+A payment can be marked successful only after confirmation is received from the payment system.
+
+Customers should not make multiple payments for the same order if the first payment is still being processed.
+
+If a customer is charged twice for the same transaction, the customer should provide the transaction details to customer support.
+
+Refund time depends on the payment method and financial institution.
+
+Customers should never share their OTP, PIN, password, CVV, or complete card number with customer support.
+
+Customers can contact support for failed payments, duplicate payments, missing refunds, payment status, and transaction-related problems.

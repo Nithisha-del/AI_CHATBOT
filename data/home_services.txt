@@ -1,0 +1,19 @@
+HOME SERVICES CUSTOMER SUPPORT
+
+Customers can book home services such as cleaning, appliance repair, plumbing, electrical services, and other supported services.
+
+Customers should provide the booking ID and service address when contacting support about a specific booking.
+
+Service availability depends on location, service type, and available professionals.
+
+Customers can cancel or reschedule a booking according to the service provider's cancellation policy.
+
+Additional charges may apply for certain services, materials, emergency visits, or work outside the original service request.
+
+Customers can report incomplete, incorrect, or unsatisfactory services to customer support.
+
+Customers should verify the service details and estimated charges before confirming a booking.
+
+Customers should not share passwords, OTPs, or financial credentials with service providers.
+
+Customers can contact support for booking, cancellation, rescheduling, payment, and service-quality issues.
